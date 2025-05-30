@@ -1,0 +1,5 @@
+{
+  "name": "Ephemeral Image Share",
+  "description": "A web application for temporarily sharing images using browser local storage. Images are stored client-side and accessible via shareable links for a limited time (72 hours). This app demonstrates client-side storage and does not upload images to a server.",
+  "requestFramePermissions": []
+}
